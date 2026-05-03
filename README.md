@@ -25,7 +25,14 @@ This repository contains my structured practice of Data Structures & Algorithms,
 ---
 
 ## 📂 Folder Structure
-
+📁 Arrays/
+📁 Strings/
+📁 LinkedList/
+📁 Trees/
+📁 Graphs/
+📁 DP/
+📁 Recursion/
+📁 Sorting/
 ---
 
 ## 🧠 Sample Problems
